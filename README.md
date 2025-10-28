@@ -22,8 +22,8 @@ team home:<br/>
         <th>8</th>
         <th>9</th>
         <th>R</th>
-        <th></th>
-        <th></th>
+        <th>H</th>
+        <th>E</th>
     </tr>
   
   <tr>
