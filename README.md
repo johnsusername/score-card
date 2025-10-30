@@ -32,7 +32,7 @@ team home:<br/>
     </tr>
   
   <tr>
-        <td>away team</th>
+        <td>away team</td>
         <td></td>
         <td></td>
         <td></td>
