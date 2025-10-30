@@ -1,11 +1,16 @@
 # score-card
 <!DOCTYPE html>
 <html lang="en-US">
-<form>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+  
+  <form>
   team away:<br/>
   <input type"text">
 team home:<br/>
   <input type"text">
+
 
 </form>
 <table>
